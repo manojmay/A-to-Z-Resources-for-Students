@@ -1,10 +1,9 @@
-# Machine Learning CleanSheet :bookmark_tabs:
-
+# Machine Learning CleanSheet
 
 ---
 
 
-## Prerequisite Knowledge :warning:
+## Prerequisite Knowledge
 
 - [ ] [Linear Algebra](https://www.youtube.com/watch?list=PLE7DDD91010BC51F8&v=ZK3O402wf1c)
 - [ ] [Probability theory](https://www.youtube.com/watch?list=PLUl4u3cNGP61MdtwGTqZA0MreSaDybji8&v=j9WZyLZCBzs)
@@ -12,7 +11,7 @@
 - [ ] [Optimisation Methods](https://online.stanford.edu/courses)
 
 
-## Machine Learning Algorithms :pencil2:
+## Machine Learning Algorithms
 * [Deep learning (MLP, CNN, RNN, LSTM)](mla/neuralnet)
 * [Linear regression, logistic regression](mla/linear_models.py)
 * [Random Forests](mla/ensemble/random_forest.py)
@@ -28,7 +27,7 @@
 * [Gradient Boosting trees (also known as GBDT, GBRT, GBM, XGBoost)](mla/ensemble/gbm.py)
 * [Reinforcement learning (Deep Q learning)](mla/rl)
 
-## Beginner Books :books:
+## Beginner Books
 * [Real World Machine Learning](https://www.manning.com/books/real-world-machine-learning) [Free Chapters]
 * [An Introduction To Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/) - Book + R Code
 * [Elements of Statistical Learning](http://web.stanford.edu/~hastie/ElemStatLearn/) - Book
@@ -64,7 +63,7 @@
 * [Hands‑On Machine Learning with Scikit‑Learn and TensorFlow](http://index-of.es/Varios-2/Hands%20on%20Machine%20Learning%20with%20Scikit%20Learn%20and%20Tensorflow.pdf) - Aurélien Géron
 * [R for Data Science: Import, Tidy, Transform, Visualize, and Model Data](http://r4ds.had.co.nz/) - Wickham and Grolemund. Great as introduction on how to use R.
 * [Advanced R](http://adv-r.had.co.nz/) - Hadley Wickham. More advanced usage of R for programming.
-## Resources :gem:
+## Resources
 - [41 Essential Machine Learning Interview Questions (with answers)](https://www.springboard.com/blog/machine-learning-interview-questions/)
 
 - [How can a computer science graduate student prepare himself for data scientist interviews?](https://www.quora.com/How-can-a-computer-science-graduate-student-prepare-himself-for-data-scientist-machine-learning-intern-interviews)
@@ -89,17 +88,15 @@
 - [fast.ai - Cutting Edge Deep Learning For Coders](http://course.fast.ai/part2.html)
 
 - [A curated list of awesome Deep Learning tutorials, projects and communities](https://github.com/ChristosChristofidis/awesome-deep-learning)
-- [An Introduction and collection of articles for machine learning](https://www.geeksforgeeks.org/machine-learning/)
 
-
-## Becoming an Open Source Contributor :trophy:
+## Becoming an Open Source Contributor
 - [ ] [tensorflow/magenta: Magenta: Music and Art Generation with Machine Intelligence](https://github.com/tensorflow/magenta)
 - [ ] [tensorflow/tensorflow: Computation using data flow graphs for scalable machine learning](https://github.com/tensorflow/tensorflow)
 - [ ] [cmusatyalab/openface: Face recognition with deep neural networks.](https://github.com/cmusatyalab/openface)
 - [ ] [tensorflow/models/syntaxnet: Neural Models of Syntax.](https://github.com/tensorflow/models/tree/master/syntaxnet)
 
 
-## Communities :muscle:
+## Communities
 - Quora
     - [Machine Learning](https://www.quora.com/topic/Machine-Learning)
     - [Statistics](https://www.quora.com/topic/Statistics-academic-discipline)
